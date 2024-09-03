@@ -1,0 +1,10 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+chapters:
+- file: 01.probability
+- file: 02.classical_ml_algorithms
+- file: 03.statistics
+- file: 04.metrics_loss_functions_biases
