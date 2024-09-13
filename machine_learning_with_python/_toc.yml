@@ -8,3 +8,4 @@ chapters:
 - file: 02.classical_ml_algorithms
 - file: 03.statistics
 - file: 04.metrics_loss_functions_biases
+- file: 05.llms
