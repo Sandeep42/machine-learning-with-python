@@ -9,3 +9,4 @@ chapters:
 - file: 03.statistics
 - file: 04.metrics_loss_functions_biases
 - file: 05.llms
+- file: 06.nlp_with_prompt_engineering.ipynb
