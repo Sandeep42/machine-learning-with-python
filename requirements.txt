@@ -4,3 +4,6 @@ numpy
 ghp-import
 scipy
 scikit-learn
+torch
+langchain_core
+langchain_groq
