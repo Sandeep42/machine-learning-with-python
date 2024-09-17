@@ -10,4 +10,3 @@ chapters:
 - file: 04.metrics_loss_functions_biases
 - file: 05.llms
 - file: 06.nlp_with_prompt_engineering.ipynb
-- file: 07.langchain_agents.ipynb
